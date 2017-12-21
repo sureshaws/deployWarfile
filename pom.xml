@@ -4,15 +4,7 @@
   <groupId>org.rns.training</groupId>
   <artifactId>maven-training</artifactId>
   <packaging>jar</packaging>
-<<<<<<< HEAD
   <version>3.3-SNAPSHOT</version>
-=======
-  <version>3.2-SNAPSHOT</version>
->>>>>>> 908271f971fc0b891e8daebe6a915ae9bf9d1376
-  <name>maven-training</name>
-  <url>http://maven.apache.org</url>
-  
-  
    <profiles>
       <profile>
       <id>test</id>
